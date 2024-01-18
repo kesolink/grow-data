@@ -13,8 +13,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
-    "react-typed": "^<new_version>"
-    
+    "react-typed": "^<compatible_version>"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
