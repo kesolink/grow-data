@@ -15,3 +15,6 @@ export default function Hero() {
     </div>
   )
 }
+
+    // "react-typed": "^1.2.0"
+
