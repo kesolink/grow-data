@@ -24,5 +24,3 @@ function Newsletters() {
 }
 
 export default Newsletters
-// We care bout the protection of your data. Read our
-// Privacy Policy.
